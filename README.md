@@ -6,3 +6,5 @@ wxcm
     <li>Creating a new branch is quick.</li>
     <li>hhh</li>
 </ul>
+
+Creating a new branch is quick AND simple.
