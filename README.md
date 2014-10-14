@@ -7,4 +7,4 @@ wxcm
     <li>hhh</li>
 </ul>
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
